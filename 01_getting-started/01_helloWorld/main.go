@@ -6,6 +6,6 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello world!")
-	fmt.Println("Push to Neels git reporsitory!")
+	fmt.Println("Push to Neels git repository!")
 
 }
