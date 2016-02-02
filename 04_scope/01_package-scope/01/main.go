@@ -5,10 +5,10 @@ import "fmt"
 var x = 42
 
 func main() {
-	fmt.Println(x)
+	fmt.Println("Printing from main function : ", x)
 	foo()
 }
 
 func foo() {
-	fmt.Println(x)
+	fmt.Println("Printing from foo function again : ", x)
 }

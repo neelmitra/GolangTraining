@@ -8,6 +8,7 @@ const (
 	c = iota // 2
 )
 
+
 func main() {
 	fmt.Println(a)
 	fmt.Println(b)
