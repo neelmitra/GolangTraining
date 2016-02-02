@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/neelmitra/GolangTraining/04_scope/samepackage"
+)
 
 func main(){
 	fmt.Println(x)
